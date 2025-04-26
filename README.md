@@ -51,5 +51,5 @@ Here we cover some repository scanning methodologies, including scanning for sec
 
 ## Q and A
 
-This course wraps up with a Q and A session.
+This course wraps up with a Q and A session..
 
