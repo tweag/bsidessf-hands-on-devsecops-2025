@@ -1,0 +1,3 @@
+# When someone opens a pull request that
+# modifies JS files, your user will be requested for a review.
+*.js    @my-user
